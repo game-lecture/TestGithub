@@ -2,7 +2,7 @@ hello
 
 i love you
 
-이름: 이대현
+이름: 홍길동
 
 학번:
 
